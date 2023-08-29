@@ -1,6 +1,6 @@
 # AD Enum Tool (adenumtool)
 
-A tool written in C# for enumerating details about Active Directory domains and their domain controllers. This tool will be upgraded with time , rightnow it just have some basic features.
+A tool written in C# for enumerating details about Active Directory domains and their domain controllers. This tool will be upgraded over time; right now, it only has some basic features.
 
 ## Features
 
